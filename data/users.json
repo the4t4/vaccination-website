@@ -1,0 +1,75 @@
+{
+    "5fed5b05b7bd0": {
+        "fullname": "folvuf",
+        "ssn": "123123123",
+        "address": "qwer",
+        "password": "$2y$10$fjNryPndRPr0eJWbMM5gmuc710xsdH0fJcVO1Xb0MypYBmNZGmUGm",
+        "email": "folvufa@hi2.in",
+        "booking": "2021.01.01 13:00",
+        "roles": [
+            "user"
+        ],
+        "id": "5fed5b05b7bd0"
+    },
+    "5fee79c37e9e5": {
+        "fullname": "re34g43",
+        "ssn": "421342134",
+        "address": "3412f2134f413",
+        "password": "$2y$10$YZeJu.DkaXUrRSnWTMi\/yub4zZwTbV\/I0B9Pb9EzCGyK91ltrJtpa",
+        "email": "timismailov301@gmail.com",
+        "booking": "2021.01.01 13:00",
+        "roles": [
+            "user"
+        ],
+        "id": "5fee79c37e9e5"
+    },
+    "5fee9cfeae0b0": {
+        "fullname": "admin",
+        "ssn": "123456789",
+        "address": "admin",
+        "password": "$2y$10$nvnGxNpB3XevZhIhd7rcjeKNjLfpcBcfu4UnYjnL3m.dTC9UhNnPy",
+        "email": "admin@nemkovid.hu",
+        "booking": "",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "id": "5fee9cfeae0b0"
+    },
+    "5feec89391484": {
+        "fullname": "tqweqwet",
+        "ssn": "098352823",
+        "address": "vwbetb345",
+        "password": "$2y$10$5lE8.PBZjvAyYTwHwh9LlOkNfT9VJbl6NoR2hNjJhejHcsNH\/rIhi",
+        "email": "qwefqf@gream.hu",
+        "booking": "2021.01.20 19:40",
+        "roles": [
+            "user"
+        ],
+        "id": "5feec89391484"
+    },
+    "5feed90271791": {
+        "fullname": "431r31r3r1",
+        "ssn": "743266292",
+        "address": "134t15tv25tv54",
+        "password": "$2y$10$X703gO1gV1fkBnOgFUUQOu0xoICEDAEF0NdazPXthivE\/aeItwO5S",
+        "email": "123@mail.ru",
+        "booking": "2021.01.01 13:00",
+        "roles": [
+            "user"
+        ],
+        "id": "5feed90271791"
+    },
+    "5feedaa9bbb7a": {
+        "fullname": "142135143",
+        "ssn": "564565645",
+        "address": "32r41gc13c4ct1",
+        "password": "$2y$10$FoyHsTbpfl8vHJjv0rmN0u.unTqSmxSt5r0hEgE2NaW35OICgjcZK",
+        "email": "cter@cter.cter",
+        "booking": "2021.01.02 01:38",
+        "roles": [
+            "user"
+        ],
+        "id": "5feedaa9bbb7a"
+    }
+}
